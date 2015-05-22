@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+
+#capHill {
+  font-style: italic;
+}
+
+.odd {
+  background-color: #ccc;
+}
+
+table {
+  border: 10px dashed antiquewhite;
+}
+
+thead {
+  font-weight: bold;
+  background-color: pink;
+}
